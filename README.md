@@ -7,6 +7,7 @@
   <a href="https://discordapp.com/users/627252764593881095">
     <img src="https://img.shields.io/badge/Discord-black?logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=lancylot2004&color=blueviolet&label=self.profileMisclickCount">
 </div>
 
 - Hi! I'm Lancelot, currently a 1<sup>st</sup> Year **Computing** student at **Imperial College London**.

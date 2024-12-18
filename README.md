@@ -19,22 +19,22 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lancylot2004&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&line_height=26&theme=github_dark"
+      srcset="https://github-readme-stats-two-cyan-58.vercel.app/api?username=lancylot2004&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&line_height=26&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lancylot2004&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&line_height=26&theme=github_light"
+      srcset="https://github-readme-stats-two-cyan-58.vercel.app/api?username=lancylot2004&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&line_height=26&theme=github_light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=lancylot2004&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&line_height=26" />
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lancylot2004&show_icons=true&langs_count=3&hide_border=true&theme=github_dark"
+      srcset="https://github-readme-stats-two-cyan-58.vercel.app/api/top-langs/?username=lancylot2004&show_icons=true&langs_count=3&hide_border=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lancylot2004&show_icons=true&langs_count=3&hide_border=true&theme=github_light"
+      srcset="https://github-readme-stats-two-cyan-58.vercel.app/api/top-langs/?username=lancylot2004&show_icons=true&langs_count=3&hide_border=true&theme=github_light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lancylot2004&show_icons=true&langs_count=3&hide_border=true" />

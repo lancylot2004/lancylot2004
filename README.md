@@ -11,7 +11,7 @@
 </div>
 
 - Hi! I'm Lancelot, currently a 1<sup>st</sup> Year **Computing** student at **Imperial College London**.
-- I like to dabble in everything, but write apps in `Kotlin` and `Swift`, do (almost) everything else in `Python`, and love to use `Regex` and `LaTeX`.
+- I like to dabble in everything, but write apps in `Kotlin` and `Swift`, low-level things in `C` do (almost) everything else in `Python` (or `TypeScript`), and love to use `Regex` and `LaTeX`.
 - I'd love to get to know you! Links above...
 - You may know me as _Hongming Liu_...
 
